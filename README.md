@@ -42,7 +42,3 @@ For an optimal experience with hands-on labs and other practical activities, we 
 
 * [Hands-On Spring Security 5.x [Video]](https://www.packtpub.com/application-development/hands-spring-security-5x-video)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789341454">https://packt.link/free-ebook/9781789341454 </a> </p>
